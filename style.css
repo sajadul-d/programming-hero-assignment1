@@ -1,0 +1,128 @@
+
+h1 {
+    font-size: 50px;
+    font: weight 700px;
+}
+h2{
+    font-size: 40px;
+    font: weight 700px;
+}
+h3{
+    font: weight 700px;
+}
+p{
+    color: dimgray;
+    padding-right: 50px;
+    text-align:justify;
+}
+ body {
+     margin:0;
+
+    font-family: 'Poppins', sans-serif;
+ }
+
+ 
+ .half-width{
+     width: 40%;
+     float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+ }
+ .half-width img{
+
+     width: 100%;
+ }
+ 
+ section{
+     height: 500px;
+     background-repeat: no-repeat;
+     padding-bottom: 150px;
+ }
+ #tomato{
+     color: tomato;
+ }
+ .link_button{
+      
+     text-decoration: none;
+     background-color:tomato;
+     padding: 10px 20px;
+     border-radius:5px;
+     font-weight: 700;
+     color:white;
+     margin-top: 20px;
+ }
+ #project{
+     text-align: center;
+ }
+  
+  
+ .single-shadow{
+     box-shadow:10px 10px 40px;
+     border-radius: 5px;
+     height: 80%;
+     background-color:white;
+ }
+ .background-img{
+     background-image: url("image/exp-bg.png");
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+  
+ 
+
+ .third-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.project-area img{
+    width: 100%;
+}
+.project-area{
+    background-color:rgb(255, 255, 255);
+}
+.contact{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 80px;
+
+}
+#work{
+    display: inline;
+     
+}
+ 
+.background{
+    background-image: url("images/background.jpg.png");
+    background-origin: content-box;
+    background-size:800px 200px;
+    margin-left:200px;
+}
+#color1{
+    color: tomato;
+}
+.shadow{
+    box-shadow:10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color:wheat;
+}
+#full-stack{
+    border-left: 7px solid tomato;
+    border-image: linear-gradient(180 deg,lightsalmon,tomato);
+    border-image-slice:1;
+}
+#baby-web{
+    border-left: 7px solid blue;
+    border-image: linear-gradient(180 deg,lightsalmon,tomato);
+    border-image-slice:1;
+ }
+ .footer-design{
+    text-align: center;
+    font-weight: 700px;
+    font-size:20px;
+}
